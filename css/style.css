@@ -33,5 +33,32 @@ h1 {
     align-items: center;
     width: 4rem;
     height: 4rem;
+    background: blue;
+}
+
+.sq2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background: green;
+}
+
+.sq3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background: gold;
+}
+
+.sq4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
     background: red;
 }
