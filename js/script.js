@@ -15,7 +15,6 @@ for (let i = 1; i <= 100; i++) {
         eleSquares.innerHTML += `<div class='sq3'>Buzz</div>`;
     }
 
-    
     else {
         eleSquares.innerHTML += `<div class="sq">${i}</div>`;
     }
